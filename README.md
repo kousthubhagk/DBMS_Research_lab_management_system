@@ -16,7 +16,7 @@ This Research Lab Management System is a database management system project deve
 - **Database:** MySQL
 
 ### Project Structure
-- **Database Schema:** The relational schema and ER diagram are included in the `docs` folder.
+- **Database Schema:** The relational schema and ER diagram are included.
 - **Source Code:** The main Python script is `frontend.py`, which utilizes the Streamlit framework for the web interface.
 - **Database Setup:** Instructions for setting up the MySQL database are provided in `script.sql`.
 
