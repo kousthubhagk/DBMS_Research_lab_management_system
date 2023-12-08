@@ -357,6 +357,20 @@ if state["is_logged_in"]:
                             #  {event[0]}, Date: {event[1]}, Lab: {event[2]}")
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     elif state["user_type"] == "Lab Personnel":
         if not state['lab_id'] or not st.session_state.session_state_initialized:
             # Lab Personnel needs to enter their Lab ID
